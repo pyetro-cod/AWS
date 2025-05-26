@@ -8,7 +8,7 @@ if numero % 2 == 0:
     '''
     Verifica se o número é par. 
     O operador % (módulo) retorna o resto da divisão de 'numero' por 2.
-    Se o resto for 0, significa que 'numero' é divisível por 2, ou seja, é um número par.
+    Se o resto fdor 0, significa que 'numero' é divisível por 2, ou seja, é um número par.
      '''
     
     print(f"O número {numero} é par.")
